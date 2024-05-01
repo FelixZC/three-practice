@@ -12,3 +12,5 @@
 **/IntegrationServer/WmRepository4/
 **/IntegrationServer/XAStore/
 **/IntegrationServer/packages/Wm*/
+
+node_modules
